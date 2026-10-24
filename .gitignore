@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+.qa/
+Clinic_Website_Codex_Handoff.md
